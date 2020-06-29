@@ -13,3 +13,11 @@
     
 }
 
+h1 {
+    overflow-wrap: break-word;
+}
+
+.para {
+    font-size: 1.9em;
+}
+
